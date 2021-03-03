@@ -1,2 +1,2 @@
 # AndroidStockApp
-Created a Stock Viewing Android app (Android Studio, Java, SQL-LITE )
+A Stock Viewing Android app (Android Studio, Java, SQL-LITE )
